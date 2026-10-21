@@ -10,7 +10,7 @@ I'm currently deepening my Java expertise through hands-on study focused on the 
 
 This profile documents my ongoing studies through personal labs and technical experiments.
 
-## Tech Stack
+## Technologies I've Worked With
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,nodejs,ts,postgres,mysql,graphql,aws,docker,kubernetes,terraform,react&perline=6" alt="PHP, Node.js, TypeScript, React, PostgreSQL, MySQL, GraphQL, AWS, Docker, Kubernetes, Terraform" />
