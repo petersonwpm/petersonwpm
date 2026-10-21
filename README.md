@@ -11,9 +11,10 @@ I'm currently deepening my Java expertise through hands-on study focused on the 
 This profile documents my ongoing studies through personal labs and technical experiments.
 
 ## Technologies I've Worked With
+> A selection of technologies I've worked with across different stages of my career. Not all are part of my current day-to-day work.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,ts,postgres,mysql,graphql,aws,docker,kubernetes,terraform,react&perline=6" alt="PHP, Node.js, TypeScript, React, PostgreSQL, MySQL, GraphQL, AWS, Docker, Kubernetes, Terraform" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,ts,postgres,mysql,graphql,aws,docker,kubernetes,terraform,react&perline=6" alt="PHP, Node.js, TypeScript, PostgreSQL, MySQL, GraphQL, AWS, Docker, Kubernetes, Terraform, React" />
 </p>
 
 **Current focus**
@@ -25,6 +26,8 @@ This profile documents my ongoing studies through personal labs and technical ex
 ## Selected Labs
 
 Personal study labs and ongoing experiments. They document topics I'm exploring and practicing, rather than finished products.
+
+The labs share a local development environment, including a Traefik reverse proxy for hostname-based access.
 
 ### [Java Lab](https://github.com/petersonwpm/java-lab)
 
