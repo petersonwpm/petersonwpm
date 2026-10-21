@@ -11,6 +11,7 @@ I'm currently deepening my Java expertise through hands-on study focused on the 
 This profile documents my ongoing studies through personal labs and technical experiments.
 
 ## Technologies I've Worked With
+
 > A selection of technologies I've worked with across different stages of my career. Not all are part of my current day-to-day work.
 
 <p>
@@ -40,6 +41,10 @@ Experiments with performance engineering using Java, JDBC, PostgreSQL, and the O
 ### [EDA Lab](https://github.com/petersonwpm/architecture-lab)
 
 A local environment for studying event-driven architecture and Clean Architecture with PHP and Symfony, alongside PostgreSQL, Sqitch, and Kafka. The lab also explores separating framework-independent code from framework-specific runtime code.
+
+### [Reverse Proxy Lab](https://github.com/petersonwpm/reverse-proxy-lab)
+
+A shared local development reverse proxy built with Traefik and Docker Compose, providing hostname-based access to containerized lab environments.
 
 ### [REL — React Learning Lab](https://github.com/petersonwpm/commerce-lab)
 
